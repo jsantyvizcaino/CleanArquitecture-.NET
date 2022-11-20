@@ -1,0 +1,17 @@
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.deps.json
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.runtimeconfig.json
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.dll
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.pdb
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.AssemblyReference.cache
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.AssemblyInfoInputs.cache
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.AssemblyInfo.cs
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.CoreCompileInputs.cache
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.CopyComplete
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.dll
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\refint\CleanArchitecture.Data.dll
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.pdb
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.genruntimeconfig.cache
+D:\santy\NUEVAS TECNOLOGIAS\DDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Data.dll
